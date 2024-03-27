@@ -1,0 +1,149 @@
+/* common start */
+
+/* common end */
+/* header start */
+.form-control{
+    height: 40px;
+    width: 650px;
+}
+
+.btn-out{
+    width: 50px;
+    font-size: 18px;
+    background-color: orangered;
+    color: white;
+    border: 1px solid #000000;
+}
+.btn-out:hover{
+    background-color: orangered;
+    color: #000000;
+   
+}
+.navbar{
+    
+}
+.nav{ 
+    margin-top: 15px;
+}
+.nav_lik{
+    padding: 2px;
+    font-size: 14px;
+    text-decoration: none;
+    list-style: none;
+    color: #000000;
+    border-bottom: 1px solid transparent;
+    transition: .33s linear;
+}
+  
+.nav_lik:hover{
+    border-bottom: 1px solid #000;
+  }   
+
+/* header end */
+/* header start 2 */
+.header2{
+    display: inline-block;
+    border: .1px solid #626262 ;
+    width: 100%;
+    align-items: center;
+}
+.header2:hover{
+    background-color: #626262;
+    box-shadow: 0px 20px 40px rgb(0, 0, 0, 0.1);;
+}
+.menu2{}
+
+    
+.nav_list{
+    display: inline;
+}
+.nav_item{
+    list-style: none;
+    float: left;
+    padding: 8px;
+}
+.nav_link{
+   text-decoration: none;
+   color: #000000;
+}
+
+/* header end 2 */
+/* slider start */
+.slide{
+    margin-top: 50px;
+}
+.title{
+    height: 50px;
+    display: inline-block;
+    border: .1px solid #626262 ;
+    width: 100%;
+}
+.t_c{
+    font-size: 18px;
+    list-style: none;
+    text-decoration: none;
+    color: red;
+}
+.btn_i{}
+
+.btn_i:hover{
+    background-color: #626262;
+    color: #fff;
+}
+.new_item{
+    margin-top: 30px;
+}
+.new_item:hover{
+    background-color: white;
+    box-shadow: 0px 20px 40px rgb(0, 0, 0, 0.1);
+    /* border: 1px solid black; */
+}
+.new_pb{}
+.nb_img{
+
+}
+.nb_title{
+    font-size: 15px;
+    color: #000;
+    text-decoration: none;
+}
+.nb_title:hover{
+    border-bottom: 1px solid #000;
+}
+
+.nb_writer {
+    font-size: 14px;
+    margin: 20px 45px 0px 4px;
+    color: #b4aaaa;
+    list-style: none;
+}
+.nb_writer:hover{
+    border-bottom: 1px solid #000;
+}
+.n_price{
+    padding: 10px;
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
+.n_price span{
+    margin-left: 5px;
+    color: red;
+}
+.btn_s{
+    margin-left: 500px;
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    background-color: #ffb01f;
+    text-align: center;
+    border: 1px black;
+}
+
+/* slider end */
+.s_b{}
+.s_b img{
+    height: 80px;
+    width: 50px;
+}
+.s-t{}
+.s_p{}
